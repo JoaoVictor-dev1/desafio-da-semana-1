@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(8, 82, 8);
+}
+#a1{
+    color: rgb(5, 8, 6);
+    font-family: Lucida Sans;
+}
+
+.corpo{
+    width: 960px;
+    margin: auto;
+}
+.conteudo{
+    display:table;
+    float: left;
+}
+.img{
+    display: table-cell;
+    
+}
+.texto{
+    display:table-cell;
+    float: left;
+    width:600px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
